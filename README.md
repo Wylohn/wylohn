@@ -1,7 +1,5 @@
-### Hello there 👋
-
-### General Wylohn
-
+<h1 align="center">Hi 👋, I'm Wylohn</h1>
+<h3 align="center">A Front-end developper from Paris 🇫🇷</h3>
 <!--
 **Wylohn/wylohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
